@@ -5,27 +5,26 @@
   margin-left: auto;
   position: relative;
 
-  .navigation{
-    background: url('./navi.png')  no-repeat;
+  .navigation {
+    background: url("./navi.png") no-repeat;
     background-size: cover;
     position: fixed;
     width: 266px;
     height: 338px;
   }
-  .feed{
-    background:  url('./feed.png')  no-repeat ;
+  .feed {
+    background: url("./feed.png") no-repeat;
     background-size: cover;
-margin-left: 250px;
+    margin-left: 250px;
     width: 585px;
     height: 4655px;
-  }  
-  .sidebar{
-    background: url('./sidebar.png')  no-repeat;
+  }
+  .sidebar {
+    background: url("./sidebar.png") no-repeat;
     background-size: cover;
     position: fixed;
-left: calc(50% + 272px);
+    left: calc(50% + 272px);
     width: 276px;
     height: 395px;
   }
 }
-
