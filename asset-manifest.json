@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ConnectWise-WiseWorkplace/static/css/main.e3bcecf4.chunk.css",
+    "main.css": "/ConnectWise-WiseWorkplace/static/css/main.120fb1ce.chunk.css",
     "main.js": "/ConnectWise-WiseWorkplace/static/js/main.48305fac.chunk.js",
     "main.js.map": "/ConnectWise-WiseWorkplace/static/js/main.48305fac.chunk.js.map",
     "runtime-main.js": "/ConnectWise-WiseWorkplace/static/js/runtime-main.a64695ed.js",
@@ -10,15 +10,15 @@
     "static/js/3.a30d0378.chunk.js": "/ConnectWise-WiseWorkplace/static/js/3.a30d0378.chunk.js",
     "static/js/3.a30d0378.chunk.js.map": "/ConnectWise-WiseWorkplace/static/js/3.a30d0378.chunk.js.map",
     "index.html": "/ConnectWise-WiseWorkplace/index.html",
-    "static/css/main.e3bcecf4.chunk.css.map": "/ConnectWise-WiseWorkplace/static/css/main.e3bcecf4.chunk.css.map",
+    "static/css/main.120fb1ce.chunk.css.map": "/ConnectWise-WiseWorkplace/static/css/main.120fb1ce.chunk.css.map",
     "static/js/2.d45aecfd.chunk.js.LICENSE.txt": "/ConnectWise-WiseWorkplace/static/js/2.d45aecfd.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/ConnectWise-WiseWorkplace/static/media/sidebar.6efd3ce7.png",
+    "static/media/App.scss": "/ConnectWise-WiseWorkplace/static/media/sidebar.ce074980.png",
     "static/media/logo.6ce24c58.svg": "/ConnectWise-WiseWorkplace/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a64695ed.js",
     "static/js/2.d45aecfd.chunk.js",
-    "static/css/main.e3bcecf4.chunk.css",
+    "static/css/main.120fb1ce.chunk.css",
     "static/js/main.48305fac.chunk.js"
   ]
 }
